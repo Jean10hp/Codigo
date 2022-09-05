@@ -58,3 +58,9 @@ git log
 ~~~bash
 git show id-commit
 ~~~
+
+* Este comando sirve para subir al github
+
+~~~bash
+git push origin main
+~~~
