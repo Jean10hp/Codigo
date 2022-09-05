@@ -32,3 +32,29 @@ git init
 ~~~bash
 git status
 ~~~
+
+* Sirve para agregar los archivos a la memoria.
+
+~~~bash
+git add .
+~~~
+
+* Sirve para registrar los cambios realizados.
+
+~~~bash
+git commit -m "comentario"
+~~~
+
+* Poder ver el historial de commint
+
+[ ] Git log retorna un 'id' con este id vamos a poder ver el detalle de los cambios que se hicieron en ese commit.
+
+~~~bash
+git log
+~~~
+
+* Para poder ver el detalle del commit usamos
+
+~~~bash
+git show id-commit
+~~~
